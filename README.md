@@ -6,8 +6,6 @@
 ### About Me:
 I am passionate about exploring and modeling data to discover illusive but critically important data trends that have meaningful impacts on everyday life.  Through my background in neuroscience research, I have developed an expertise in time-series analysis, data visualization, and project management.  My research experiences working with neural data have also helped me realize my enthusiasm for programming, and as such, I enrolled in Bloomtech’s data science program to strengthen my data science skill set.  Having graduated, my ambition is to explore applications of cognitive research with neural network machine learning models.
 
-- 📫 How to reach me **bobbywilt1@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bobbywilt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bobbywilt/" height="30" width="40" /></a>
