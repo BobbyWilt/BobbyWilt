@@ -4,7 +4,7 @@
 <h3 align="center">Data Scientist | Machine Learning Engineer | Data Engineer</h3>
 
 ### About Me:
-I am passionate about exploring and modeling data to discover illusive but critically important data trends that have meaningful impacts on everyday life.  Through my background in neuroscience research, I have developed an expertise in time-series analysis, data visualization, and project management.  My research experiences working with neural data have also helped me realize my enthusiasm for programming, and as such, I enrolled in Bloomtech’s data science program to strengthen my data science skill set.  Having graduated, my ambition is to explore applications of cognitive research with neural network machine learning models.
+I am passionate about exploring and modeling data to discover illusive but critically important data trends that have meaningful impacts on everyday life.  Through my background in neuroscience research, I have developed an expertise in time-series analysis, data visualization, and project management.  My research experiences working with neural data have also helped me realize my enthusiasm for programming, and as such, I enrolled in Bloomtech’s data science program to strengthen my data science skill set.  Having graduated, my ambition is to explore applications of machine learning in cognitive research.
 
 🔭 I’m currently working on a spotify recommendation system that implements a bayesian-optimized neural network to create custom song recommendations based on user-provided playlists.
 
