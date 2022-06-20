@@ -8,7 +8,7 @@ I am passionate about exploring and modeling data to discover illusive but criti
 
 🔭 I’m currently working on a spotify recommendation system that implements a bayesian-optimized neural network to create custom song recommendations based on user-provided playlists.
 
-🔭 My next project will focus on time-series modeling utilizing neural networks.
+🔭 My next project will focus NLP abstractive text summarization.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
